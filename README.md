@@ -1,7 +1,9 @@
 # algorithms-princeton-university
 Robert Sedgewic
 
-https://www.coursera.org/learn/algorithms-part1/
+https://www.coursera.org/learn/algorithms-part1/ [01 - 06]
+
+https://www.coursera.org/learn/algorithms-part2/ [07 - 12]
 
 Environment:
 
